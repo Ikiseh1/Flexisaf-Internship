@@ -1,4 +1,4 @@
-package com.ikiseh.flexisaf_internship.task_1_setup_springboot;
+package com.ikiseh.flexisaf_internship;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
