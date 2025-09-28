@@ -1,4 +1,4 @@
-package endpoint_layer;
+package com.ikiseh.flexisaf_internship.task_3.endpoint_layer;
 
 import com.ikiseh.flexisaf_internship.task_3.persistence_layer.User;
 import com.ikiseh.flexisaf_internship.task_3.service_layer.UserService;
